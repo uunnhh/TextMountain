@@ -36,6 +36,12 @@ python eval_mlt.py
 If you use this codebase or models in your research, please consider cite .
 
 ```
+@article{zhu2018textmountain,
+  title={Textmountain: Accurate scene text detection via instance segmentation},
+  author={Zhu, Yixing and Du, Jun},
+  journal={arXiv preprint arXiv:1811.12786},
+  year={2018}
+}
 
 @article{zhou2018semantic,
   title={Semantic understanding of scenes through the ade20k dataset},
