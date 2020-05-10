@@ -5,7 +5,7 @@ This is the code of TextMountain. It is modified based on [semantic-segmentation
 
 ## Requirements
 * Python 3.6.1
-* opencv-python 3.4
+* opencv-python 3.4.4
 * torch 0.4.0
 * Install other required packages according to the error message
 
