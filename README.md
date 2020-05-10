@@ -27,6 +27,9 @@ python train_mlt.py
 ```
 
 ## Evaluation
+The model trained on MLT can be download through the following link:
+
+(https://pan.baidu.com/s/1--4RUdzdcPOSeu7UNTtmhQ PASSWORD: 4ha2)
 ```
 python eval_ctw.py
 python eval_mlt.py
