@@ -46,18 +46,5 @@ If you use this codebase or models in your research, please consider cite .
   year={2018}
 }
 
-@article{zhou2018semantic,
-  title={Semantic understanding of scenes through the ade20k dataset},
-  author={Zhou, Bolei and Zhao, Hang and Puig, Xavier and Xiao, Tete and Fidler, Sanja and Barriuso, Adela and Torralba, Antonio},
-  journal={International Journal on Computer Vision},
-  year={2018}
-}
-
-@inproceedings{zhou2017scene,
-    title={Scene Parsing through ADE20K Dataset},
-    author={Zhou, Bolei and Zhao, Hang and Puig, Xavier and Fidler, Sanja and Barriuso, Adela and Torralba, Antonio},
-    booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-    year={2017}
-}
 ```
 
