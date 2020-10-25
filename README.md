@@ -1,7 +1,7 @@
 # TextMountain: Accurate Scene Text Detection via Instance Segmentation
 
 ## Introduction
-This is the code of TextMountain. It is modified based on [semantic-segmentation-pytorch](https://github.com/open-mmlab/mmdetection).
+This is the code of TextMountain. It is modified based on [semantic-segmentation-pytorch](https://github.com/CSAILVision/semantic-segmentation-pytorch).
 
 ## Requirements
 * Python 3.6.1
